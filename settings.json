@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "guitarfish.aternos.host:56254",
+    "port": 56254,
     "version": "",
     "try-creative": false
   },
